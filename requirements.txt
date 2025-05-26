@@ -1,0 +1,7 @@
+textblob
+requests
+beautifulsoup4
+streamlit
+pandas
+matplotlib
+brightdata-sdk  # If applicable
